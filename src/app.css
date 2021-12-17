@@ -1,0 +1,21 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    flex-wrap: wrap;
+}
+
+/* .App{
+    width: 100%;
+    max-width: 1024px;
+}
+
+.css-84loza{
+    width: 52%;
+} */
+
+ @media(max-width: 720px){
+    .css-84loza{
+        width: 145%;
+        height: 45%;
+    }
+} 
+    
